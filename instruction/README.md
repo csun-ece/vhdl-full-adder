@@ -26,20 +26,20 @@ After completing this assignment, students will be able to:
 
 ## Install Vivado
 Follow the instruction provided in the following video:
-[Install Vivado Design suite 2019.1 on Windows computer](https://youtu.be/ulfMP1LfjO0)
+- [Install Vivado Design suite 2019.1 on Windows computer](https://youtu.be/ulfMP1LfjO0)
 
 ## Create Vivado project
 Follow the instruction provided in the following video:
-[Assignment 1 - Working with Vivado - Part 1](https://youtu.be/p7y4kuhfUJE)
-[Assignment 1 - Working with Vivado - Part 2](https://youtu.be/n30xyuQFOVA)
+- [Assignment 1 - Working with Vivado - Part 1](https://youtu.be/p7y4kuhfUJE)
+- [Assignment 1 - Working with Vivado - Part 2](https://youtu.be/n30xyuQFOVA)
 
 ## Create Vivado test bench
 Follow the instruction provided in the following video:
-[Assignment 1 - Working with Vivado - Part 3](https://youtu.be/IOmjEkAeIZM)
+- [Assignment 1 - Working with Vivado - Part 3](https://youtu.be/IOmjEkAeIZM)
 
 ## Generate bitstream and program the device
-[Assignment 1 - Working with Vivado - Part 4](https://youtu.be/Lztsj4HPv98)
-[Assignment 1 - Working with Vivado - Part 5](https://youtu.be/i8Rs5UCjmDI)
+- [Assignment 1 - Working with Vivado - Part 4](https://youtu.be/Lztsj4HPv98)
+- [Assignment 1 - Working with Vivado - Part 5](https://youtu.be/i8Rs5UCjmDI)
 
 
 ## Tasks
