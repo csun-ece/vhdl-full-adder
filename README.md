@@ -32,9 +32,10 @@ TBD
 TBD
 
 ## Task 6 result
+Change the following question to yes when you pushe your code to remote repo.
 Have you pushed your project to remote repo? Yes/No
 
 -------------
 -------------
-Change the following question to yes when you are done with this assignment.
+Change the following question to yes when you are done with this assignment. The instructor will use this question to determine if your assignment is ready for review.
 ## Is assignment ready for review? Yes/No
