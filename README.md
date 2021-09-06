@@ -32,7 +32,7 @@ TBD
 TBD
 
 ## Task 6 result
-Change the following question to yes when you pushe your code to remote repo.
+Change the following question to yes when you pushe your code to remote repo.  
 Have you pushed your project to remote repo? Yes/No
 
 -------------
