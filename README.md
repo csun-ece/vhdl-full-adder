@@ -1,4 +1,4 @@
-# ECE 524L Fall 2021
+# ECE --- Fall 2021
 **California State University, Northridge**  
 **Department of Electrical and Computer Engineering**  
 
