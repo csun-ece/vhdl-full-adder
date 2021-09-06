@@ -39,27 +39,32 @@ Follow the instruction provided in the following video:
 TBD
 
 ## Tasks
-:point_right: **Task 1**:  
-Synthesize, Implement and generate bit stream using Vivado design flow menu bar.
+:point_right: **Task 1**: (10 points)  
+Synthesize, Implement and Generate bitstream using Vivado design flow menu bar.
 Resolve any error and build issues.
 Take a screenshot of the Vivado Design flow menu and number each option similar to the one shown in the class.
 
 
-:point_right: **Task 2**:  
-Expand RTL ANALYSIS, then expand Open Elaborated Design and click on the Schematic
-Take a screenshot of schematic
+:point_right: **Task 2**: (10 points)  
+Expand RTL ANALYSIS, then expand Open Elaborated Design and click on the schematic
+Take a screenshot of the schematic.
 
-:point_right: **Task 3**:  
-Expand SYNTHESIS, then expand Open Synthesized Design and click on the Schematic
-Take a screenshot of schematic
+:point_right: **Task 3**: (10 points)  
+Expand SYNTHESIS, then expand Open Synthesized Design and click on the schematic
+Take a screenshot of the schematic.
 
-:point_right: **Task 4**:  
+:point_right: **Task 4**: (10 points)  
 Expand IMPLEMENTATION, then expand Open Implemented Design and click on the Report Utilization.
-Take a screenshot of Utilization table.
+Take a screenshot of the Utilization table.
 
-:point_right: **Task 5**:  
-Expand SIMULATION, then click on Run Simulation. From the Dropdown menu click on Run Behavioral Simulation. Expand the Waveform window, adjust the time range to 90 ns.
+:point_right: **Task 5**: (10 points)  
+Expand SIMULATION, then click on Run Simulation. From the Dropdown menu, click on Run Behavioral Simulation. Expand the Waveform window, adjust the time range to 90 ns.
 Take a screenshot from the waveform window.
 
-:point_right: **Task 6**:  
-Push your project to Assignment repo.
+:point_right: **Task 6**: (50 points)  
+Push your project to the Assignment repo. Both your project and testbench should be 
+pass all the design flow steps (synthesize, implement, generate bitstream)
+
+:point_right: **Task 7**: (10 points) 
+Optional Extra Credit: Load your design to a development board and show the functionality.
+Include a URL (preferably YouTub URL) to your working demo.

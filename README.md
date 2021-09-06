@@ -11,6 +11,11 @@
 
 **Submission date:** MM/DD/YYY
 
+## Development board
+Select the which dev board you targeted for this project:
+- [ ] Zybo Z7-10
+- [ ] Nexys 7 A7-100T
+
 ## Task 1 result
 TBD
 
