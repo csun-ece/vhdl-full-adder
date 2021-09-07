@@ -32,8 +32,9 @@ TBD
 TBD
 
 ## Task 6 result
-Change the following question to yes when you pushe your code to remote repo.  
-Have you pushed your project to remote repo? Yes/No
+Change the following question to yes when you pushed your code to remote repo.   
+Your submitted assignment must be synthesizable to get the full point.  
+Have you pushed your project to remote repo? Yes/No   
 
 -------------
 -------------
